@@ -1,4 +1,4 @@
-# google-drive-torrent
+# Drive-Access-Torrent
 
 Download torrents to your Google Drive directly
 
